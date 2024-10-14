@@ -1,5 +1,5 @@
 # are-you-my-mother
-I was inspired for the final project by the classic children's book "Are You My Mother?" (You can read it in PDF format here; it's very short.) In this story, a baby bird loses track of its mother and approaches various members of its community — a kitten, a hen, a dog, a cow, a boat, a plane and a digger — asking each, "Are you my mother?" Eventually it finds its mother again and all is well.
+This repo contains my final project for the University of Colorado, Boulder class CSCA 5642: Introduction to Deep Learning. I was inspired by the classic children's book "Are You My Mother?" (You can read it in PDF format here; it's very short.) In this story, a baby bird loses track of its mother and approaches various members of its community — a kitten, a hen, a dog, a cow, a boat, a plane and a digger — asking each, "Are you my mother?" Eventually it finds its mother again and all is well.
 
 This little bird could have saved itself some trouble with a neural network trained on birds!
 
